@@ -1,0 +1,15 @@
+﻿Order_ID,Order_Priority,Order_Quantity,Sales,Profit,Region,Product_Category
+34855,Not Specified,5,2323,764,Northwest Territories,Furniture
+98345,High,77,3423,123,Northwest Territories,Office Supplies
+34272,Critical,56,123,3241,Northwest Territories,Furniture
+12646,Medium,44,342,453,Northwest Territories,Office Supplies
+91696,High,23,1432,2088.66548,Northwest Territories,Office Supplies
+423267,Critical,17,4321,324,Northwest Territories,Office Supplies
+26783,Low,31,1234,7416,Northwest Territories,Technology
+4927,Medium,44,4353,4321,Northwest Territories,Furniture
+35379,Low,5,342,4235,Northwest Territories,Furniture
+23443,High,26,123,764,Northwest Territories,Furniture
+3458,Medium,36,432,9876,Northwest Territories,Technology
+30358,Critical,44,1265,1232,Northwest Territories,Office Supplies
+23393,Critical,98,121,5463,Northwest Territories,Furniture
+34631,High,9,654,1232,Northwest Territories,Technology
